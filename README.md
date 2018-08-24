@@ -30,3 +30,9 @@
 #### [amqp](https://github.com/squaremo/amqp.node) - More advanced
 #### [Serialport](https://github.com/node-serialport/node-serialport) - access serial ports- Linux, OSX and Windows
 #### [Node-RED](https://nodered.org/) - Flow-based programming
+
+## Testing
+#### [mocha](https://mochajs.org/) - a feature-rich test framework
+#### [sinon](https://sinonjs.org/) - spies, stubs and mocks
+#### [chai](https://github.com/chaijs/chaijs.github.io) - assertions
+#### [istanbul](https://istanbul.js.org/) - code coverage
