@@ -4,7 +4,7 @@
 #### [sqlite](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3
   
 ## Task Scheduler
-#### [later](http://bunkat.github.io/later/) - The simplest.
+#### [later](http://bunkat.github.io/later/) - The simplest way to work with recurring schedules.
 #### [agenda](https://github.com/agenda/agenda) - Lightweight, backed by mongo.
 #### [bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust, backed by Redis.
 #### [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling jobs and messages.
@@ -23,6 +23,7 @@
 
 ## Utility
 #### [moment](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times.
+#### [mathjs](http://mathjs.org/index.html) - An extensive math library
 #### [nodemon](https://nodemon.io/) - Monitor for any changes in your node.js application and automatically restart the server.
 #### [lodash](https://lodash.com/) - Easier work with arrays, numbers, objects, strings, etc.
 
