@@ -1,6 +1,7 @@
 ## Database
 #### [sequelize](http://docs.sequelizejs.com/) - Multi SQL dialect ORM for PostgreSQL, MySQL, SQLite and MSSQL
 #### [mongodb](https://github.com/mongodb/node-mongodb-native) - Official MongoDB driver
+#### [sqlite](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3
   
 ## Task Scheduler
 #### [later](http://bunkat.github.io/later/) - The simplest.
