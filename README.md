@@ -25,6 +25,7 @@
 #### [moment](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times.
 #### [mathjs](http://mathjs.org/index.html) - An extensive math library.
 #### [lodash](https://lodash.com/) - Easier work with arrays, numbers, objects, strings, etc.
+#### [VerbalExpression](https://verbalexpressions.github.io/JSVerbalExpressions/) - Regular Expressions made easy
 
 ## Development process
 #### [nodemon](https://nodemon.io/) - Monitor for any changes in your node.js application and automatically restart the server.
