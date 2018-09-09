@@ -26,6 +26,7 @@
 #### [mathjs](http://mathjs.org/index.html) - An extensive math library.
 #### [lodash](https://lodash.com/) - Easier work with arrays, numbers, objects, strings, etc.
 #### [VerbalExpression](https://verbalexpressions.github.io/JSVerbalExpressions/) - Regular Expressions made easy
+#### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
 
 ## Development process
 #### [nodemon](https://nodemon.io/) - Monitor for any changes in your node.js application and automatically restart the server.
