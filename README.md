@@ -16,6 +16,7 @@
 #### [express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework.
 #### [restify](http://restify.com/) - Optimized for building semantically correct web services.
 #### [apiDoc](http://apidocjs.com/) - Documentation in source code.
+#### [json-server](https://github.com/typicode/json-server) - fake REST API with zero coding < 30 seconds (seriously)
 
 ## Authentication
 #### [passport](http://www.passportjs.org/) - A variety of authentication strategies.
