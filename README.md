@@ -26,6 +26,7 @@
 #### [moment](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times.
 #### [mathjs](http://mathjs.org/index.html) - An extensive math library.
 #### [lodash](https://lodash.com/) - Easier work with arrays, numbers, objects, strings, etc.
+#### [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - snippets that you can understand in 30 seconds or less
 #### [VerbalExpression](https://verbalexpressions.github.io/JSVerbalExpressions/) - Regular Expressions made easy
 #### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
 
