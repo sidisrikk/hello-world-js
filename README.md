@@ -2,7 +2,11 @@
 #### [sequelize](http://docs.sequelizejs.com/) - Multi SQL dialect ORM for PostgreSQL, MySQL, SQLite and MSSQL
 #### [mongodb](https://github.com/mongodb/node-mongodb-native) - Official MongoDB driver
 #### [sqlite](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3
-  
+
+## Search
+#### [VerbalExpression](https://verbalexpressions.github.io/JSVerbalExpressions/) - RegEx made easy
+#### [Fuse](https://github.com/krisk/fuse) - fuzzy search for json object.
+
 ## Task Scheduler
 #### [later](http://bunkat.github.io/later/) - The simplest way to work with recurring schedules.
 #### [agenda](https://github.com/agenda/agenda) - Lightweight, backed by mongo.
@@ -27,7 +31,7 @@
 #### [mathjs](http://mathjs.org/index.html) - An extensive math library.
 #### [lodash](https://lodash.com/) - Easier work with arrays, numbers, objects, strings, etc.
 #### [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - snippets that you can understand in 30 seconds or less
-#### [VerbalExpression](https://verbalexpressions.github.io/JSVerbalExpressions/) - Regular Expressions made easy
+#### [Voca](https://vocajs.com/) - manipulating strings
 #### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
 
 ## Development process
