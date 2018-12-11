@@ -33,6 +33,7 @@
 #### [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - snippets that you can understand in 30 seconds or less
 #### [Voca](https://vocajs.com/) - manipulating strings
 #### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
+#### [Flow](https://flow.org/) - a static type checker
 
 ## Development process
 #### [nodemon](https://nodemon.io/) - Monitor for any changes in your node.js application and automatically restart the server.
