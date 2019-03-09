@@ -34,6 +34,7 @@
 #### [Voca](https://vocajs.com/) - manipulating strings
 #### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
 #### [Flow](https://flow.org/) - a static type checker
+#### [inquirer](https://github.com/SBoudrias/Inquirer.js)- a interactive command line user interfaces
 
 ## Development process
 #### [nodemon](https://nodemon.io/) - Monitor for any changes in your node.js application and automatically restart the server.
