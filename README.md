@@ -33,6 +33,7 @@
 #### [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - snippets that you can understand in 30 seconds or less
 #### [Voca](https://vocajs.com/) - manipulating strings
 #### [Babel](https://babeljs.io/docs/en/index.html) - convert ECMAScript 2015+ into a backwards compatible version of JavaScript
+#### [esm](https://github.com/standard-things/esm#readme) - bundle-less es6 import/export syntax.
 #### [Flow](https://flow.org/) - a static type checker
 #### [inquirer](https://github.com/SBoudrias/Inquirer.js)- a interactive command line user interfaces
 
