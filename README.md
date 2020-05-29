@@ -51,3 +51,7 @@
 ## Testing
 #### [jest](https://jestjs.io/en/) - testing framework 
 #### [mocha](https://mochajs.org/) - testing framework
+
+## editor
+#### [editor.js](https://editorjs.io/) - A block-styled editor with clean JSON output
+#### [draft.js](https://draftjs.org/) - Rich Text Editor Framework for React
